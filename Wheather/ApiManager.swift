@@ -7,3 +7,8 @@
 //
 
 import Foundation
+
+
+struct API {
+    let apiKey = "5e156719cb7b0942b54071704ef521fe"
+}
